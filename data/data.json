@@ -1,0 +1,32 @@
+{
+	"mobiles":[{
+		"name":"Nokia 7.2",
+		"image":"img/nokia7.2.jpg",
+		"Oprice":16000,
+		"price":15000
+	},{
+		"name":"Samsung A30",
+		"image":"img/SamsungA30.jpg ",
+		"Oprice":14000,
+			"price":13000
+
+	},{
+		"name":"Redmi note 5 pro",
+		"image":"img/redmi5pro.jpg",
+		"Oprice":12000,
+		"price":12000
+
+	},{
+		"name":"apple 8s",
+		"image":"img/apple8s.png",
+		"Oprice":55000,
+		"price":50000
+
+	},{
+		"name":"one plus 8",
+		"image":"img/oneplus8.jpg ",
+		"Oprice":76000,
+		"price":72000
+	          }]
+    
+}

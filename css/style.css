@@ -1,0 +1,18 @@
+img{
+	width: 55%;
+	display: inline-block;
+	margin: 10px;
+	background-color: green;
+	border-radius: 23px;
+	padding: 10px;
+   border: 10px solid red;
+  transition: transform .2s;
+  box-shadow: inset;
+
+}
+img:hover{
+	transform: scale(2);
+}
+.card{
+	box-shadow: 19px 19px 19px -1px blue; 
+}
