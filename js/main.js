@@ -1,5 +1,5 @@
 
-fetch("../data/data.json").then(response=>{
+fetch(" https://akhil1707.github.io/E-commerce/data/data.json").then(response=>{
 return response.json()
 }).then(data=>{
 displayData(data)
